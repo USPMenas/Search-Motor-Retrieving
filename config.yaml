@@ -1,0 +1,3 @@
+preprocessing:
+    target_size: 224
+    max_dim_for_descriptors: 800
